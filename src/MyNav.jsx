@@ -65,13 +65,13 @@ function MyNav()  {
                   الراديو
                 </Nav.Link>
               </Nav.Item>
-              <Nav.Item>
+{/*               <Nav.Item>
                 <Button onClick={()=>{
                     dispatch(darkModeAction(theme))
                 }}>
                   dark
                 </Button>
-              </Nav.Item>
+              </Nav.Item> */}
             </Nav>
           </Navbar.Collapse>
         </Container>
